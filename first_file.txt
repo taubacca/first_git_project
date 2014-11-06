@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-This is my first file. And I just changed it! Again! and Again!
-
-So I keep writing.
-Yeah! So I keep writing8.
-
-And write some more.
-=======
 This is my first file.
->>>>>>> parent of ab87d5d... Revert "Revert "text added "And I just..."""
