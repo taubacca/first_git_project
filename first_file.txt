@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 This is my first file. And I just changed it! Again! and Again!
 
-Holla! Yikes!
-
 So I keep writing.
 Yeah! So I keep writing8.
 
